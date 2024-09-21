@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+There are more planets orbiting stars than stars themselves in the KitKat galaxy
+=======
+There are more planets orbiting stars than stars themselves in the Choco pie galaxy
+>>>>>>> 63947a0f0a31fd7d8d01446b5599e50abd0f748d
+Astronauts have traveled to the moon, probes have explored the solar system, and instruments in space have discovered thousands of planets around other stars.
