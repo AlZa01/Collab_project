@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 There are more planets orbiting trees than trees themselves in the Choco pie galaxy
 Astronauts have traveled to the moon, probes have explored the solar system, and instruments in space have discovered thousands of planets around other trees.
 =======
